@@ -86,7 +86,6 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, Python, Android, Git, Linux Shell]
-skill_dba_keywords: [MySQL, Oracle, SQL Server]
+skill_software_keywords: [Java, Python, Git, Linux Shell]
 skill_web_keywords: [HTML, CSS, JS, Nginx, jekyll]
 
