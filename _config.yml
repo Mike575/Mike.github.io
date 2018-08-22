@@ -8,7 +8,7 @@
 # Site settings
 title: Aitra Blog
 name: Mike Lai
-#email: 
+email: Mike_Lai@outlook.com
 location: Shanghai, China
 #company: Xidian University
 #company_url: http://www.xidian.edu.cn/
@@ -86,8 +86,7 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, Python, Android, Git, Linux Shell, Design Patterns, DevOps, Docker, JMeter]
-skill_dba_keywords: [MySQL, PostgreSQL, Oracle, SQL Server, SQLite, Redis Sentinel, Redis Cluster]
-skill_j2ee_keywords: [Spring, Spring MVC, MyBatis, JSP, RESTful Api, Spring Boot, Motan, Dubbo, Spring Data *, Spring Security, Spring Sociol]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, Boostrap, Vue.js]
-skill_mobile_app_keywords: [Android, WebApp]
+skill_software_keywords: [Java, Python, Android, Git, Linux Shell]
+skill_dba_keywords: [MySQL, Oracle, SQL Server]
+skill_web_keywords: [HTML, CSS, JS, Nginx, jekyll]
+
