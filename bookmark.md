@@ -6,7 +6,7 @@ menu: Bookmark
 ---
 
 ##Nginx
--[Nginx.conf](https://www.cnblogs.com/liang-wei/p/5849771.html) - Avoid attacks from sql
+- [Nginx.conf](https://www.cnblogs.com/liang-wei/p/5849771.html) - Avoid attacks from sql
 
 ## PHP
 - [Idiorm](https://github.com/j4mie/idiorm/) - A lightweight nearly-zero-config object-relational mapper and fluent query builder for PHP5
