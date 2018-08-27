@@ -8,6 +8,11 @@ menu: Bookmark
 ## Nginx
 - [Nginx.conf](https://www.cnblogs.com/liang-wei/p/5849771.html) - Avoid attacks from sql
 
+## Packages
+- [Ubuntu Releases](http://mirrors.aliyun.com/ubuntu-releases/) - Ubuntu Releases from Aliyun
+
+## Themes
+- [Vim](https://www.cnblogs.com/linxiyue/p/7834817.html) - Vim Plugins manual
 ## PHP
 - [Idiorm](https://github.com/j4mie/idiorm/) - A lightweight nearly-zero-config object-relational mapper and fluent query builder for PHP5
 - [GitElephant](https://github.com/matteosister/GitElephant) - An abstraction layer to manage your git repositories with php
