@@ -5,6 +5,9 @@ subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; To mark us
 menu: Bookmark
 ---
 
+## Tensorflow
+- [Tensorflow pdf](http://web.stanford.edu/class/cs20si/lectures/) - Stanford Tensorflow lecture
+
 ## Nginx
 - [Nginx.conf](https://www.cnblogs.com/liang-wei/p/5849771.html) - Avoid attacks from sql
 
